@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517353929363",
+    "project_id": "rout-it-b794a",
+    "storage_bucket": "rout-it-b794a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517353929363:android:d9e52ddc7e65741cc02b66",
+        "android_client_info": {
+          "package_name": "com.example.k_hackathon_rout_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-jgk3f_XCLS6jOJhYkDNIW-y2Eo2CGls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
